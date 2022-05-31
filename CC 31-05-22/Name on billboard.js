@@ -8,7 +8,7 @@ If your name would be Jeong-Ho Aristotelis, ad would cost £600. 20 leters * 30 
 function billboard(name, price = 30){
 //No puedo usar signo de multiplicacion (*)? Pues haré un bucle que sume price por cada chara del string :)
 var totalCost = 0;
-for(i=0; iname.length; i++){
+for(let i=0; name.length; i++){
     totalCost += price;
 } 
 
