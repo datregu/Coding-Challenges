@@ -1,7 +1,7 @@
-#CodeWars Challenges: [Visit here](https://www.codewars.com/users/datregu)
+# **CodeWars Challenges: [Visit here](https://www.codewars.com/users/datregu)**
 
-##How it's made:
+## How it's made:
 
-##Optimizations:
+## Optimizations:
 
-##Lessons Learned:
+## Lessons Learned:
