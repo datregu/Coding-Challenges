@@ -3,7 +3,7 @@
 This is a repository with all the codewars challenges (kata) that I resolve. I try to push 1 solution per day.
 
 ## How it's made:
-**Tech used**: ![JavaScript-logo](https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667)
+**Tech used**: ![JavaScript-logo](https://camo.githubusercontent.com/30934920b46fd5b6874bf6ce5f9a3afd8ea0e5e4ed20ab9eda0450286ba7a138/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4a41564153435249505426636f6c6f723d336337663564267374796c653d706c6173746963266c6f676f3d6a617661736372697074)
 ## Optimizations:
 Every time I resolve a kata I try to refactor and optimize my code, adding features like psedo-code for readability.
 ## Lessons Learned:
