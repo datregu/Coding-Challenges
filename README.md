@@ -1,4 +1,5 @@
 # **CodeWars Challenges: [Visit here](https://www.codewars.com/users/datregu)**
+![codewars-badge](https://www.codewars.com/users/datregu/badges/large)
 
 This is a repository with all the codewars challenges (kata) that I resolve. I try to push 1 solution per day.
 
