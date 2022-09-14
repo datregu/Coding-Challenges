@@ -8,4 +8,4 @@ This is a repository with all the codewars challenges (kata) that I resolve. I t
 ## Optimizations:
 Every time I resolve a kata I try to refactor and optimize my code, adding features like psedo-code for readability.
 ## Lessons Learned:
-I learn lessons with every kata I push, but one thing is for sure, even if a problem can have different solutions, we must seek for the ones more that are more efficient.
+I learn lessons with every kata I push, but one thing is for sure, even if a problem can have multiple solutions, we must seek for the ones more that are more efficient.
