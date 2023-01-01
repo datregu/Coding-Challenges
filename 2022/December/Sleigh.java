@@ -11,10 +11,6 @@ sleigh.authenticate("jhoffner", "CodeWars") # Nope, even Jak*/
 public class Sleigh {
     public static Boolean authenticate(String name, String password){
         //Check if both Strings are valid
-        if ( name == "Santa Claus" && password == "Ho Ho Ho!"){
-            return true;
-        }else{
-            return false;
-        }
+        return name == "Santa Claus" && password == "Ho Ho Ho!";
     }
 }
